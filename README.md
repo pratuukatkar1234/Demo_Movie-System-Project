@@ -45,8 +45,19 @@ Backend languages –
 3.	jQuery 
 4.	SQL
 
+Screenshot
+
 1.  Home Page:
-2.  <img width="1357" height="593" alt="image" src="https://github.com/user-attachments/assets/f0a2e2ef-f2f9-4478-ade9-3cf16624fc4c" />
+
+      <img width="1357" height="593" alt="image" src="https://github.com/user-attachments/assets/f0a2e2ef-f2f9-4478-ade9-3cf16624fc4c" />
+
+2. Registration Page:
+  
+   <img width="1290" height="574" alt="image" src="https://github.com/user-attachments/assets/c81e3e36-87e7-4576-b2c0-e3608b882b26" />
+
+3.Login Page:
+
+<img width="1225" height="477" alt="image" src="https://github.com/user-attachments/assets/81c19215-4583-418d-a8a0-f57ae5d6dc02" />
 
 
 
