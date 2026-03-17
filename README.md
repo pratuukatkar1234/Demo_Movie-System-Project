@@ -2,7 +2,7 @@
 
 The Online Movie Ticket Booking System is a web-based application that allows users to browse movies, select show timings, and book tickets online. The system provides a simple and user-friendly interface for seamless ticket booking and management.
 
-Features
+Features:
 
 1) Movie Browsing
 Users can view available movies along with details such as name, genre, and show timings.
